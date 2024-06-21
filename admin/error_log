@@ -1,0 +1,1 @@
+[21-Jun-2024 02:32:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tugasaja/public_html/admin/jadwal.php on line 87
